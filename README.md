@@ -1,2 +1,3 @@
 # rsschool-cv
-https://alexrizfx.github.io/rsschool-cv/cv
+
+https://alexrizfx.github.io/rsschool-cv/c
