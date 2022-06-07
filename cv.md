@@ -1,113 +1,41 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Videography1</title>
-    <link rel="stylesheet" href="css/styles.css">
-</head>
-
-<body>
-    <table cellspacing="20">
-        <tr>
-            <td><img src="123.jpg" alt="photo"></td>
-            <td>
-                <p><em>Video editor, <strong><a href="https://www.youtube.com/">motion designer</a></strong>.</em></p>
-                <p>biobiobibio</p>
-                <p>biobiobibio</p>
-                <p>biobiobibio</p>
-            </td>
-        </tr>
-    </table>
-    <hr>
-    <h1>Video Production</h1>
-    <hr>
-    <h3>Books and Teaching</h3>
-    <ul>
-        <li>bamboocha</li>
-        <li>bamboo oocha</li>
-    </ul>
-    <hr>
-    <h3>Work expirience</h3>
-    <table cellspacing="10">
-        <thead>
-            <tr>
-                <th>Dates</th>
-                <th>Work</th>
-            </tr>
-        </thead>
-        <tbody>
-
-        </tbody>
-        <tfoot>
-
-        </tfoot>
-        <tr>
-            <td>9999</td>
-            <td>First job</td>
-            <td>This job</td>
-        </tr>
-        <tr>
-            <td>1999-1999-1111</td>
-            <td>Second job</td>
-        </tr>
-    </table>
-    <hr>
-    <h3>Skills</h3>
-
-    <table>
-        <tr>
-            <td>
-                <table cellspacing="10">
-                    <tr>
-                        <td>
-                            <p>Video</p>
-                            <p>Editing</p>
-                        </td>
-                        <td>
-                            <p>⭐⭐⭐⭐⭐</p>
-                            <p>⭐⭐⭐⭐⭐</p>
-                        </td>
-            </td>
-        </tr>
-    </table>
-    <td>
-        <table>
-            <tr>
-                <td>
-                    <p>Motion</p>
-                    <p>111</p>
-                </td>
-                <td>
-                    <p>⭐⭐⭐⭐⭐</p>
-                    <p>⭐⭐</p>
-                </td>
-    </td>
-    </tr>
-    </table>
-    </td>
-    <td>
-        <table cellspacing="10">
-            <tr>
-                <td>
-                    <p>Photo</p>
-                    <p>222</p>
-                </td>
-                <td>
-                    <p>⭐⭐⭐</p>
-                    <p>⭐⭐⭐</p>
-                </td>
-            </tr>
-        </table>
-    </td>
-    </tr>
-    </table>
-    <hr>
-    <a href="hobbies.html">My hobbies</a>
-    <a href="Contacts.html">Contacts</a>
-
-</body>
-
-</html>
+# Alexander Sanchenkov
+****
+Frontend Developer (Junior)
+****
+Contacts:
+====
+* Phone: +7-950-033-09-88
+* E-mail: Rizmedia1@gmail.com
+* Website: http://wed-pro.ru/
+* Discord: @alexrizfx
+* Telegram: @alexrizfx
+* GitHub: @alexrizfx
+****
+I am 31 years old freelance videographer, living in Saint-Petersbourg, Russia. I learn JS because I really enjoy it. At this moment I've learnt some cool basics things on HTML, CSS and JS. RSschool is a really great place for studing, the students have powerfull skills after it, no doubts. 
+****
+My skills:
+* HTML5, CSS3
+* JavaScript (Basic level)
+* Git, GitHub (Basic level)
+* English B1
+* Adobe Photoshop (advanced), Adobe Premiere(pro level), Adobe After Effects (advanced)
+* Soft-skills (team-work)
+****
+Code example
+```
+function rentalCarCost(d) {
+let discount;
+let cost = 40;
+let totalCost;  
+  if (d >= 7) {
+    totalCost = d * cost - 50;
+} else if ((d >= 3) && (d < 7)) {
+    totalCost = d * cost - 20;
+} else totalCost = d * cost;
+  return totalCost;  
+}
+```
+****
+Languages:
+* Russian - Native
+* English - Intermediate  
